@@ -39,30 +39,22 @@ Getting Started
 
 To get this project up and running on your local machine, follow these steps:
 
-    Clone the repository:
+Clone the repository:
 
-    sh
-
-git clone <repository-url>
+    git clone <repository-url>
 
 Set up a virtual environment and install dependencies:
 
-sh
-
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    pip install -r requirements.txt
 
 Initialize the database and run migrations:
 
-sh
-
-python manage.py makemigrations
-python manage.py migrate
+    python manage.py makemigrations
+    python manage.py migrate
 
 Run the development server:
-
-sh
 
     python manage.py runserver
 
