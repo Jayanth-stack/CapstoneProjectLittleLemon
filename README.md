@@ -3,6 +3,8 @@
 Capstone Little Lemon Project README
 
 Welcome to the Capstone Little Lemon Project! This personal project is a testament to the culmination of my journey in mastering back-end development, particularly focusing on Django and the Django REST Framework. The goal of this project is to build a robust API for a fictional restaurant, Little Lemon, showcasing the practical application of the skills I've acquired.
+
+
 Project Overview
 
 The Capstone Little Lemon project is designed to simulate a real-world scenario where I'm tasked with developing the back-end for a restaurant's web service. This involves creating APIs for various functionalities such as browsing the menu and booking tables, all while ensuring the application's security and reliability through authentication and testing.
